@@ -1,0 +1,4 @@
+jtype: FooExecutor
+metas:
+  py_modules:
+    - my_executor.py
