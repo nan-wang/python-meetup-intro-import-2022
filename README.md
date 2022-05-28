@@ -1,6 +1,4 @@
-# Python Meetup Hangzhou@2022.3
-
-🐍 [Python Meetup at Hangzhou](https://mp.weixin.qq.com/s/m5_nEl8LQy1Krjp5MQl93Q) on 2022.03.05
+# Another Introduction to Python Import
 
 ## Demo 1: Simple module importing
 
@@ -63,3 +61,9 @@ this is Foo
 this is Bar. i get help var: helper
 
 ```
+
+## Logs
+- Python Meetup Hangzhou@2022.3
+🐍 [Python Meetup at Hangzhou](https://mp.weixin.qq.com/s/m5_nEl8LQy1Krjp5MQl93Q) on 2022.03.05
+- Python Meetup Shanghai@2022.5
+  🐍 [Python Meetup at Shanghai](https://mp.weixin.qq.com/s/m5_nEl8LQy1Krjp5MQl93Q) on 2022.03.05
